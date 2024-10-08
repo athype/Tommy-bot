@@ -121,7 +121,7 @@ new Event({
 4. Open your code editor, click on **Open Folder**, and select the new created folder.
 5. Rename the following files:
 
-- `src/example.config.js` → `src/config.js`: Used for handler configuration.
+- `src/config.js` → `src/config.js`: Used for handler configuration.
 - `.env.example` → `.env`: Used for secrets, like the Discord bot token.
 - `example.database.yml` → `database.yml`: Used as a main file for the database.
 - `example.terminal.log` → `terminal.log`: Used as a clone of terminal (to save previous terminal messages).
