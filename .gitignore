@@ -11,9 +11,7 @@ node_modules
 package-lock.json
 
 # DO NOT REMOVE THESE FOR SECURITY
-src/config.js
 .env
-database.yml
 terminal.log
 /.idea/vcs.xml
 /.idea/modules.xml

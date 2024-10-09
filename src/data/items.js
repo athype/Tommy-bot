@@ -3,7 +3,7 @@ const haydayitems = [
         name: 'Apple jam',
         details: [
             {
-                usedFor: 'Apple Porridge, Hand Pies',
+                usedFor: 'Apple Porridge\nHand Pies',
                 machine: 'Jam Maker',
                 ingredients: '3x Apple',
                 timeNeeded: '6',
