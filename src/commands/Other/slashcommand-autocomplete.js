@@ -11,7 +11,7 @@ module.exports = new ApplicationCommand({
             name: 'option',
             description: 'Select one of the options!',
             type: ApplicationCommandOptionType.String,
-            autocomplete: true,
+            autocomplete: false,
             required: true
         }]
     },

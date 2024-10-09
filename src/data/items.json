@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Apple jam",
+    "usedFor": "Apple Porridge, Hand Pies",
+    "machine": "Jam Maker",
+    "timeNeeded": "6"
+  },
+  {
+    "name": "Apple",
+    "usedFor": "Apple Ginger Tea\nApple Jam\nApple Juice\nApple Pie\nApple Porridge\nCaramel Apple\nGreen Smoothie\nHoney Apple Cake",
+    "machine": "None",
+    "timeNeeded": "None"
+  }
+]
