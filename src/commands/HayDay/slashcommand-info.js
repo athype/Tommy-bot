@@ -36,7 +36,8 @@ module.exports = new ApplicationCommand({
                 .setTitle(item.name)
                 .setDescription(details);
 
-            await interaction.reply({ embeds: [haydayembed] });
+            await interaction.deferReply({  });
+            await interaction.editReply({ embeds: [haydayembed] });
         } else {
             await interaction.reply({ content: 'Item not found!', ephemeral: true });
         }
