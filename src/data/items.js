@@ -1,11 +1,12 @@
 const haydayitems = [
     {
-        name: 'Apple jam',
+        name: 'Apple Jam',
         details: [
             {
                 level: '35',
                 maxprice: '2190',
-                usedFor: '- Apple Porridge\n -Hand Pies',
+                harvest: 'None\n',
+                usedFor: '- Apple Porridge\n- Hand Pies',
                 machine: 'Jam Maker',
                 ingredients: '3x Apple',
                 timeNeeded: '6 Hours',
@@ -21,13 +22,15 @@ const haydayitems = [
             {
                 level: '15',
                 maxprice: '396',
+                harvest: 'None\n',
                 usedFor: '- Apple Ginger Tea\n- Apple Jam\n- Apple Juice\n- Apple Pie\n- Apple Porridge\n- Caramel Apple\n- Green Smoothie\n- Honey Apple Cake',
-                machine: 'None',
-                ingredients: 'None',
-                timeNeeded: '16 Hours - 3 harvest + 1 revive',
+                machine: 'Tree',
+                harvest: '- 1st Harvest  -->  2x Apple\n- 2nd Harvest  -->  3x Apple\n- 3rd Harvest  --> 4x Apple\n-  1 Revive  -->  4x Apple',
+                ingredients: 'None\n',
+                timeNeeded: '16 Hours',
                 boat1: '3 x 9 = 27',
                 boat2: '4 x 9 = 36',
-                boat3: '4 x 10 = 40',
+                boat3: '4 x 14 = 56',
             }
         ]
     },
@@ -37,6 +40,7 @@ const haydayitems = [
             {
                 level: '78',
                 maxprice: '4350',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Ice Cream Maker',
                 ingredients: '- 1x   Espresso\n- 1x   Vanilla Ice Cream',
@@ -53,6 +57,7 @@ const haydayitems = [
             {
                 level: '88',
                 maxprice: '1690',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Tea Stand',
                 ingredients: '- 2x Apples \n- 1x Ginger\n- 1x Tea Leaf',
@@ -64,11 +69,12 @@ const haydayitems = [
         ]
     },
     {
-        name: 'Apple juice',
+        name: 'Apple Juice',
         details: [
             {
                 level: '28',
                 maxprice: '1290',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Juice Press',
                 ingredients: '-  2X Apples',
@@ -85,6 +91,7 @@ const haydayitems = [
             {
                 level: '28',
                 maxprice: '2700',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Pie Oven',
                 ingredients: '-  3x Apples\n- 2x Wheat\n- 1x Syrup\n- 1x Egg',
@@ -101,6 +108,7 @@ const haydayitems = [
             {
                 level: '119',
                 maxprice: '5220',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Porridge Bar',
                 ingredients: '-  1x Apple\n- 2x Apple Jam\n- 4x Wheat',
@@ -112,11 +120,29 @@ const haydayitems = [
         ]
     },
     {
+        name: 'Asparagus',
+        details: [
+            {
+                level: '49',
+                maxprice: '432',
+                harvest: '- 2x Asparagus per plot',
+                usedFor: '- Asparagus Quiche\n- Asparagus Soup\n- Breakfast Bowl\n- Breakfast Waffles\n- Grilled Asparagus\n- Spring Omelet',
+                machine: 'Field Plot',
+                ingredients: 'None\n',
+                timeNeeded: '6 Hours',
+                boat1: '3 x 1 = 3',
+                boat2: '4 x 2 = 8',
+                boat3: '4 x 3 = 12',
+            }
+        ]
+    },
+    {
         name: 'Asparagus Quiche',
         details: [
             {
                 level: '49',
                 maxprice: '3020',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Pie Oven',
                 ingredients: '-  2x Asparagus\n- 2x Eggs\n- 4x Wheat\n- 1x Cheese',
@@ -133,6 +159,7 @@ const haydayitems = [
             {
                 level: '51',
                 maxprice: '2550',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Soup Kitchen',
                 ingredients: '- 3x Asparagus\n- 2x Cream',
@@ -149,6 +176,7 @@ const haydayitems = [
             {
                 level: '11',
                 maxprice: '2010',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'BBQ Grill',
                 ingredients: '-  2x Bacon\n- 4x Eggs',
@@ -165,6 +193,7 @@ const haydayitems = [
             {
                 level: '88',
                 maxprice: '3880',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Donut Maker',
                 ingredients: '-  3x Bacon\n- 1x Plain Donut\n- 1x Syrup',
@@ -181,6 +210,7 @@ const haydayitems = [
             {
                 level: '87',
                 maxprice: '3020',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Deep Fryer',
                 ingredients: '- 1x Chili Pepper\n- 2x Bacon\n- 4x Potato\n- 1x Garlic',
@@ -197,6 +227,7 @@ const haydayitems = [
             {
                 level: '18',
                 maxprice: '2190',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Pie Oven',
                 ingredients: '- 3x Apple\n- 2x Wheat\n- 1x Syrup\n- 1x Egg',
@@ -213,6 +244,7 @@ const haydayitems = [
             {
                 level: '65',
                 maxprice: '6480',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Sandwich Bar',
                 ingredients: '- 2x Bacon\n- 2x Bread\n- 3x Lettuce\n- 1x Mayonnaise',
@@ -229,6 +261,7 @@ const haydayitems = [
             {
                 level: '35',
                 maxprice: '2980',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'BBQ Grill',
                 ingredients: '- 1x Cheese\n- 2x Potato\n- 1x Chili Pepper\n- 1x Cream',
@@ -245,6 +278,7 @@ const haydayitems = [
             {
                 level: '91',
                 maxprice: '4240',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Bakery',
                 ingredients: '- 3x Banana\n- 1x Egg\n- 2x Grapes\n- 3x Wheat',
@@ -261,6 +295,7 @@ const haydayitems = [
             {
                 level: '94',
                 maxprice: '3520',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'BBQ Grill',
                 ingredients: '- 2x Banana\n- 2x Blackberry\n- 1x Cream\n- 3x Wheat',
@@ -277,6 +312,7 @@ const haydayitems = [
             {
                 level: '96',
                 maxprice: '4030',
+                harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Ice Cream Maker',
                 ingredients: '- 1x Banana\n- 3x Cherry\n- 1x Cream',
@@ -293,6 +329,7 @@ const haydayitems = [
             {
                 level: '48',
                 maxprice: '2340',
+                harvest: 'None\n',
                 usedFor: '- Colorful Candles\n- Floral Candle\n- Lemon Candle\n- Raspberry Candle\n- Strawberry Candle',
                 machine: 'Honey Extractor',
                 ingredients: '- 3x HoneyComb',
@@ -300,6 +337,23 @@ const haydayitems = [
                 boat1: 'NO Boat Order will ask for Beeswax',
                 boat2: 'NO Boat Order will ask for Beeswax',
                 boat3: 'NO Boat Order will ask for Beeswax',
+            }
+        ]
+    },
+    {
+        name: 'Beetroot Salad',
+        details: [
+            {
+                level: '76',
+                maxprice: '2340',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Salad Bar',
+                ingredients: '- 3x Beetroot\n- 1x Goat Cheese',
+                timeNeeded: '45 Minutes',
+                boat1: 'Level 76 Required',
+                boat2: 'Level 76 Required',
+                boat3: '4  x 2 = 8',
             }
         ]
     }
