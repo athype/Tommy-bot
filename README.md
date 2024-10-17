@@ -40,11 +40,8 @@ Did you like the project? Click on the star button (⭐️) right above your scr
 ## Issues and supporting the project
 Join our Discord server if you have any questions to ask, or if you have a problem with this project.
 
-<a href="https://discord.gg/tHQyzMtuEt">
-  <img src="https://discord.com/api/guilds/1088138727504752743/widget.png?style=banner3">
-</a>
+<img src="https://discord.com/api/guilds/[1088138727504752743]/widget.png?style=banner4" alt="Discord Banner 4"/>
 
-<a href="https://ko-fi.com/O5O1SH6ZE' target='_blank'><img height='36' style='border:0px;height:36px;' src="https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## License
 [**GPL-3.0**](./LICENSE), General Public License v3
