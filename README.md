@@ -40,7 +40,7 @@ Did you like the project? Click on the star button (⭐️) right above your scr
 ## Issues and supporting the project
 Join our Discord server if you have any questions to ask, or if you have a problem with this project.
 
-<img src="https://discord.com/api/guilds/[1088138727504752743]/widget.png?style=banner4" alt="Discord Banner 4"/>
+<img src="https://discord.com/api/guilds/1088138727504752743/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 
 ## License
