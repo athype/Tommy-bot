@@ -40,7 +40,7 @@ Did you like the project? Click on the star button (⭐️) right above your scr
 ## Issues and supporting the project
 Join our Discord server if you have any questions to ask, or if you have a problem with this project.
 
-<iframe src="https://discord.com/widget?id=1088138727504752743&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[![Join our Discord server!](https://invidget.switchblade.xyz/tHQyzMtuEt)](http://discord.gg/tHQyzMtuEt
 
 
 ## License
