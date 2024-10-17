@@ -1,4 +1,4 @@
-# <samp>Tommy-bot</samp> v3
+# <samp>Tommy-bot</samp> v0.2.1
 
 A Hay Day utility Discord bot based on **discord.js v14** and fully written in JavaScript.
 
