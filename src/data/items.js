@@ -11,8 +11,6 @@ const haydayitems = [
                 ingredients: '- 1x   Espresso\n- 1x   Vanilla Ice Cream',
                 timeNeeded: '20 Minutes',
                 boat1: '3 x 1 = 3',
-                boat2: '4 x 1 = 3',
-                boat3: '4  x 1 = 4',
             }
         ]
     },
@@ -29,8 +27,6 @@ const haydayitems = [
                 ingredients: '- Baby Apple Tree',
                 timeNeeded: '16 Hours',
                 boat1: '8-14 per crate',
-                boat2: '8-14 per crate',
-                boat3: '8-14 per crate',
             }
         ]
     },
@@ -46,8 +42,6 @@ const haydayitems = [
                 ingredients: '- 2x Apples \n- 1x Ginger\n- 1x Tea Leaf',
                 timeNeeded: '30 Minutes',
                 boat1: 'Level 88 Required',
-                boat2: 'Level 88 Required',
-                boat3: '4  x 4 = 16',
             }
         ]
     },
@@ -63,8 +57,6 @@ const haydayitems = [
                 ingredients: '3x Apple',
                 timeNeeded: '6 Hours',
                 boat1: '4 x 2 = 8',
-                boat2: '4 x 2 = 8',
-                boat3: '4  x 3 = 12',
             }
         ]
     },
@@ -80,8 +72,6 @@ const haydayitems = [
                 ingredients: '-  2X Apples',
                 timeNeeded: '2 Hours',
                 boat1: '3 x 3 = 9',
-                boat2: '4 x 3 = 12',
-                boat3: '4  x 4 = 16',
             }
         ]
     },
@@ -97,8 +87,6 @@ const haydayitems = [
                 ingredients: '-  3x Apples\n- 2x Wheat\n- 1x Syrup\n- 1x Egg',
                 timeNeeded: '2 Hours 30 Minutes',
                 boat1: '3 x 1 = 3',
-                boat2: '4 x 1 = 4',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -114,8 +102,6 @@ const haydayitems = [
                 ingredients: '-  1x Apple\n- 2x Apple Jam\n- 4x Wheat',
                 timeNeeded: '20 Minutes',
                 boat1: 'Level 119 Required',
-                boat2: 'Level 119 Required',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -131,8 +117,6 @@ const haydayitems = [
                 ingredients: 'None\n',
                 timeNeeded: '6 Hours',
                 boat1: '3 x 1 = 3',
-                boat2: '4 x 2 = 8',
-                boat3: '4 x 3 = 12',
             }
         ]
     },
@@ -148,8 +132,6 @@ const haydayitems = [
                 ingredients: '-  2x Asparagus\n- 2x Eggs\n- 4x Wheat\n- 1x Cheese',
                 timeNeeded: '2 Hours',
                 boat1: '3 x 1 = 3',
-                boat2: '4 x 1 = 4',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -165,8 +147,6 @@ const haydayitems = [
                 ingredients: '- 3x Asparagus\n- 2x Cream',
                 timeNeeded: '1 Hour',
                 boat1: '3 x  1= 3',
-                boat2: '4 x 2 = 8',
-                boat3: '4  x 3 = 12',
             }
         ]
     },
@@ -197,8 +177,6 @@ const haydayitems = [
                 ingredients: '-  2x Bacon\n- 4x Eggs',
                 timeNeeded: '1 Hour',
                 boat1: '3 x 2 = 6',
-                boat2: '4 x 2 = 8',
-                boat3: '4  x 3 = 12',
             }
         ]
     },
@@ -214,8 +192,6 @@ const haydayitems = [
                 ingredients: '-  3x Bacon\n- 1x Plain Donut\n- 1x Syrup',
                 timeNeeded: '30 Minutes',
                 boat1: '3 x  = ',
-                boat2: '4 x  = ',
-                boat3: '4  x  = ',
             }
         ]
     },
@@ -246,8 +222,6 @@ const haydayitems = [
                 ingredients: '- 1x Chili Pepper\n- 2x Bacon\n- 4x Potato\n- 1x Garlic',
                 timeNeeded: '25 Minutes',
                 boat1: 'Level 87 Required',
-                boat2: 'Level 87 Required',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -263,8 +237,6 @@ const haydayitems = [
                 ingredients: '- 3x Apple\n- 2x Wheat\n- 1x Syrup\n- 1x Egg',
                 timeNeeded: '2 Hours 30 Minutes',
                 boat1: '3 x 1 = 3',
-                boat2: '4 x 2 = 8',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -280,8 +252,6 @@ const haydayitems = [
                 ingredients: '- 2x Bacon\n- 2x Bread\n- 3x Lettuce\n- 1x Mayonnaise',
                 timeNeeded: '1 Hour 40 Minutes',
                 boat1: 'Level 65 Required',
-                boat2: '4 x 1 = 4',
-                boat3: '4  x 1 = 4',
             }
         ]
     },
@@ -297,8 +267,6 @@ const haydayitems = [
                 ingredients: '- 1x Cheese\n- 2x Potato\n- 1x Chili Pepper\n- 1x Cream',
                 timeNeeded: '35 Minutes',
                 boat1: '3 x 1 = 3',
-                boat2: '4 x  1 = 4',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -329,8 +297,6 @@ const haydayitems = [
                 ingredients: '- 3x Banana\n- 1x Egg\n- 2x Grapes\n- 3x Wheat',
                 timeNeeded: '30 Minutes',
                 boat1: 'Level 91 Required',
-                boat2: '4 x 1 = 4',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -346,8 +312,6 @@ const haydayitems = [
                 ingredients: '- 2x Banana\n- 2x Blackberry\n- 1x Cream\n- 3x Wheat',
                 timeNeeded: '1 Hour',
                 boat1: 'Level 94 Required',
-                boat2: '4 x 1 = 4',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -363,8 +327,6 @@ const haydayitems = [
                 ingredients: '- 1x Banana\n- 3x Cherry\n- 1x Cream',
                 timeNeeded: '3 Hours 30 Minutes',
                 boat1: 'Level 96 Required',
-                boat2: 'Level 96 Required',
-                boat3: '4  x 2 = 8',
             }
         ]
     },
@@ -379,9 +341,22 @@ const haydayitems = [
                 machine: 'Honey Extractor',
                 ingredients: '- 3x HoneyComb',
                 timeNeeded: '45 Minutes',
-                boat1: 'NO Boat Order will ask for Beeswax',
-                boat2: 'NO Boat Order will ask for Beeswax',
-                boat3: 'NO Boat Order will ask for Beeswax',
+                boat1: 'NO Boat Orders for this item',
+            }
+        ]
+    },
+    {
+        name: 'Beetroot',
+        details: [
+            {
+                level: '72',
+                maxprice: '140',
+                harvest: 'None\n',
+                usedFor: '- Beetroot Salad\n- Winter Veggies',
+                machine: 'Field (33rd crop)',
+                ingredients: '- Beetroot Seeds',
+                timeNeeded: '40 Minutes',
+                boat1: '20-31 per crate',
             }
         ]
     },
@@ -397,8 +372,6 @@ const haydayitems = [
                 ingredients: '- 3x Beetroot\n- 1x Goat Cheese',
                 timeNeeded: '45 Minutes',
                 boat1: 'Level 76 Required',
-                boat2: 'Level 76 Required',
-                boat3: '4  x 2 = 8',
             }
         ]
     }
