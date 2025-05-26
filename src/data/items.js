@@ -1,40 +1,5 @@
 const haydayitems = [
     {
-        name: 'Apple Jam',
-        details: [
-            {
-                level: '35',
-                maxprice: '2190',
-                harvest: 'None\n',
-                usedFor: '- Apple Porridge\n- Hand Pies',
-                machine: 'Jam Maker',
-                ingredients: '3x Apple',
-                timeNeeded: '6 Hours',
-                boat1: '4 x 2 = 8',
-                boat2: '4 x 2 = 8',
-                boat3: '4  x 3 = 12',
-            }
-        ]
-    },
-    {
-        name: 'Apple',
-        details: [
-            {
-                level: '15',
-                maxprice: '396',
-                harvest: 'None\n',
-                usedFor: '- Apple Ginger Tea\n- Apple Jam\n- Apple Juice\n- Apple Pie\n- Apple Porridge\n- Caramel Apple\n- Green Smoothie\n- Honey Apple Cake',
-                machine: 'Tree',
-                harvest: '- 1st Harvest  -->  2x Apple\n- 2nd Harvest  -->  3x Apple\n- 3rd Harvest  --> 4x Apple\n-  1 Revive  -->  4x Apple',
-                ingredients: 'None\n',
-                timeNeeded: '16 Hours',
-                boat1: '3 x 9 = 27',
-                boat2: '4 x 9 = 36',
-                boat3: '4 x 14 = 56',
-            }
-        ]
-    },
-    {
         name: 'Affogato',
         details: [
             {
@@ -52,6 +17,24 @@ const haydayitems = [
         ]
     },
     {
+        name: 'Apple',
+        details: [
+            {
+                level: '15',
+                maxprice: '396',
+                harvest: 'None\n',
+                usedFor: '- Apple Ginger Tea\n- Apple Jam\n- Apple Juice\n- Apple Pie\n- Apple Porridge\n- Caramel Apple\n- Green Smoothie\n- Honey Apple Cake',
+                machine: 'Apple tree (8th crop)',
+                harvest: '- 1st Harvest  -->  2x Apple\n- 2nd Harvest  -->  3x Apple\n- 3rd Harvest  --> 4x Apple\n-  1 Revive  -->  4x Apple',
+                ingredients: '- Baby Apple Tree',
+                timeNeeded: '16 Hours',
+                boat1: '8-14 per crate',
+                boat2: '8-14 per crate',
+                boat3: '8-14 per crate',
+            }
+        ]
+    },
+    {
         name: 'Apple Ginger Tea',
         details: [
             {
@@ -65,6 +48,23 @@ const haydayitems = [
                 boat1: 'Level 88 Required',
                 boat2: 'Level 88 Required',
                 boat3: '4  x 4 = 16',
+            }
+        ]
+    },
+    {
+        name: 'Apple Jam',
+        details: [
+            {
+                level: '35',
+                maxprice: '2190',
+                harvest: 'None\n',
+                usedFor: '- Apple Porridge\n- Hand Pies',
+                machine: 'Jam Maker',
+                ingredients: '3x Apple',
+                timeNeeded: '6 Hours',
+                boat1: '4 x 2 = 8',
+                boat2: '4 x 2 = 8',
+                boat3: '4  x 3 = 12',
             }
         ]
     },
@@ -171,6 +171,21 @@ const haydayitems = [
         ]
     },
     {
+        name: 'Bacon',
+        details: [
+            {
+                level: '10',
+                maxprice: '500',
+                harvest: 'None\n',
+                usedFor: '-  Bacon and eggs\n- Bacon Donut\n- Bacon fondue\n- Bacon fries\n-  Bacon pie\n-  Bacon toast\n-  BLT salad\n-  Breakfast waffle\n-  Cabbage soup\n-  Casserole\n-  Chili poppers\n-  Chili stew\n-  Corn dog\n-  Grilled asparagus\n-  Hamburger\n-  Hot dog\n- Mushroom salad\n-  Onion dog\n-  Pasta carbonara\n-  Potato Omelet\n-  Shepherds pie\n-  Stuffed peppers\n-  Taco\n-  Winter stew',
+                machine: 'Pig Pen',
+                ingredients: 'Pig Food',
+                timeNeeded: '4 Hour',
+                boat1: '4-9 per crate',
+            }
+        ]
+    },
+    {
         name: 'Bacon amd Eggs',
         details: [
             {
@@ -201,6 +216,21 @@ const haydayitems = [
                 boat1: '3 x  = ',
                 boat2: '4 x  = ',
                 boat3: '4  x  = ',
+            }
+        ]
+    },
+    {
+        name: 'Bacon Fondue',
+        details: [
+            {
+                level: '86',
+                maxprice: '5070',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Fondue Pot',
+                ingredients: '-  3x Bacon\n- 1x Broccoli\n- 1x Bell Pepper\n- 1x Olive Oil',
+                timeNeeded: '- 30 Minutes\n 25 min (3★)',
+                boat1: '1-2 per crate',
             }
         ]
     },
@@ -269,6 +299,21 @@ const haydayitems = [
                 boat1: '3 x 1 = 3',
                 boat2: '4 x  1 = 4',
                 boat3: '4  x 2 = 8',
+            }
+        ]
+    },
+    {
+        name: 'Banana',
+        details: [
+            {
+                level: '88',
+                maxprice: '1040',
+                harvest: 'None\n',
+                usedFor: '- Banana bread\n- Banana pancakes\n- Banana split\n- Black sesame smoothie\n- Chocolate waffles\n- Cocoa smoothie\n- Iced banana latte\n- Tropical smoothie',
+                machine: 'Banana Tree (42nd Crop)',
+                ingredients: '- Baby Banana Tree',
+                timeNeeded: '1 Day 3 Hours',
+                boat1: '4-6 per crate',
             }
         ]
     },

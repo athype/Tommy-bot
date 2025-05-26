@@ -17,3 +17,4 @@ terminal.log
 /.idea/modules.xml
 /.idea/misc.xml
 /.idea/greg2.iml
+.DS_Store

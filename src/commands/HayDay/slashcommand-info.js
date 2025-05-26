@@ -30,7 +30,7 @@ module.exports = new ApplicationCommand({
         const item = haydayitems.find(item => item.name === chosen);
 
         if (item) {
-            const details = `### Max price for 10:\n${item.details[0].maxprice}\n### Level required:\n${item.details[0].level}\n### Used For:\n${item.details[0].usedFor}\n### Machine:\n${item.details[0].machine}\n### Ingredients:\n${item.details[0].ingredients}\n### Time Needed:\n${item.details[0].timeNeeded}\n\n### Boat info: \n==============================\n- level-to 55 -> ${item.details[0].boat1}\n- level-55-95 -> ${item.details[0].boat2}\n- level- 95 + -> ${item.details[0].boat3}\n==============================`;
+            const details = `### Max price for 10:\n${item.details[0].maxprice}\n### Level required:\n${item.details[0].level}\n### Used For:\n${item.details[0].usedFor}\n### Machine:\n${item.details[0].machine}\n### Ingredients:\n${item.details[0].ingredients}\n### Time Needed:\n${item.details[0].timeNeeded}\n\n### Boat info: \n==============================\n- Crate -> ${item.details[0].boat1}\n==============================`;
             const haydayembed = new EmbedBuilder()
                 .setColor('ff4700')
                 .setTitle(item.name)
