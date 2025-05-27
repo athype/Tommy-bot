@@ -8,7 +8,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Ice Cream Maker',
-                ingredients: '- 1x   Espresso\n- 1x   Vanilla Ice Cream',
+                ingredients: '-  Espresso (1)\n- Vanilla Ice Cream (1)',
                 timeNeeded: '- 20 Minutes\n- 17 min (3★)',
                 boat1: '1 per crate',
             }
@@ -39,7 +39,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Tea Stand',
-                ingredients: '- 2x Apples \n- 1x Ginger\n- 1x Tea Leaf',
+                ingredients: '- Apples (2)\n- Ginger (1)\n- Tea Leaf (1)',
                 timeNeeded: '- 30 Minutes\n- 25 min (3★)',
                 boat1: '4  per crate',
             }
@@ -54,7 +54,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: '- Apple Porridge\n- Hand Pies',
                 machine: 'Jam Maker',
-                ingredients: '- 3x Apple',
+                ingredients: '- Apple (3)',
                 timeNeeded: '- 6 Hours\n- 5 hours 6 min (3★)',
                 boat1: '2-4  per crate',
             }
@@ -69,7 +69,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Juice Press',
-                ingredients: '-  2X Apples',
+                ingredients: '- Apples (2)',
                 timeNeeded: '- 2 Hours\n- 1 hour 42 min (3★)',
                 boat1: '3-7 per crate',
             }
@@ -84,7 +84,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Pie Oven',
-                ingredients: '-  3x Apples\n- 2x Wheat\n- 1x Syrup\n- 1x Egg',
+                ingredients: '-  Apples (3)\n- Wheat (2)\n- Syrup (1)\n- Egg (1)',
                 timeNeeded: '- 2 Hours 30 Minutes\n- 2 Hours 7 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -99,7 +99,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Porridge Bar',
-                ingredients: '-  1x Apple\n- 2x Apple Jam\n- 4x Wheat',
+                ingredients: '-  Apple (1)\n- Apple Jam (2)\n- Oats (4)',
                 timeNeeded: '- 20 Minutes\n- 17 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -114,7 +114,7 @@ const haydayitems = [
                 harvest: '- 2x Asparagus per plot',
                 usedFor: '- Asparagus Quiche\n- Asparagus Soup\n- Breakfast Bowl\n- Breakfast Waffles\n- Grilled Asparagus\n- Spring Omelet',
                 machine: 'Field Plot',
-                ingredients: 'None\n',
+                ingredients: '- Asparagus Seeds',
                 timeNeeded: '- 6 Hours',
                 boat1: '6-12 per crate',
             }
@@ -129,7 +129,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Pie Oven',
-                ingredients: '-  2x Asparagus\n- 2x Eggs\n- 4x Wheat\n- 1x Cheese',
+                ingredients: '-  Asparagus (2)\n- Eggs (2)\n- Wheat (4)\n- Cheese (1)',
                 timeNeeded: '- 2 Hours\n- 1 hour 42 min (3★)',
                 boat1: '2-3 per crate',
             }
@@ -144,7 +144,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Soup Kitchen',
-                ingredients: '- 3x Asparagus\n- 2x Cream',
+                ingredients: '- Asparagus (3)\n- Cream (2)',
                 timeNeeded: '- 1 Hour\n- 51 min (3★)',
                 boat1: '1-3 per crate',
             }
@@ -174,7 +174,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'BBQ Grill',
-                ingredients: '-  2x Bacon\n- 4x Eggs',
+                ingredients: '-  Bacon (2)\n- Egg (4)',
                 timeNeeded: '- 1 Hour\n- 51 min (3★)',
                 boat1: '2-4 per crate',
             }
@@ -189,7 +189,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Donut Maker',
-                ingredients: '-  3x Bacon\n- 1x Plain Donut\n- 1x Syrup',
+                ingredients: '-  Plain donut (1)\n- Bacon (3)\n- Syrup (1)',
                 timeNeeded: '- 30 Minutes\n- 25 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -204,7 +204,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Fondue Pot',
-                ingredients: '-  3x Bacon\n- 1x Broccoli\n- 1x Bell Pepper\n- 1x Olive Oil',
+                ingredients: '-  Bacon (3)\n- Broccoli (1)\n- Bell pepper (1)\n- Olive oil (1)',
                 timeNeeded: '- 30 Minutes\n 25 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -219,7 +219,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Deep Fryer',
-                ingredients: '- 1x Chili Pepper\n- 2x Bacon\n- 4x Potato\n- 1x Garlic',
+                ingredients: '- Chili pepper (1)\n- Bacon (2)\n- Potato (4)\n- Garlic (1)',
                 timeNeeded: '- 25 Minutes\n- 21 min (3★)',
                 boat1: '2 per crate',
             }
@@ -234,7 +234,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Pie Oven',
-                ingredients: '- 3x Apple\n- 2x Wheat\n- 1x Syrup\n- 1x Egg',
+                ingredients: '- Bacon (3)\n- Egg (1)\n- Wheat (2)',
                 timeNeeded: '- 3 Hours\n- 2 Hours 33 min (3★)',
                 boat1: '1-3 per crate',
             }
@@ -249,7 +249,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Sandwich Bar',
-                ingredients: '- 2x Bacon\n- 2x Bread\n- 3x Lettuce\n- 1x Mayonnaise',
+                ingredients: '- Bacon (2)\n- Bread (2)n- Lettuce (3)n- Mayonnaise (1)',
                 timeNeeded: '- 1 Hour 40 Min\n- 1 Hour 25 min (3★)',
                 boat1: '1 per crate',
             }
@@ -264,7 +264,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'BBQ Grill',
-                ingredients: '- 1x Cheese\n- 2x Potato\n- 1x Chili Pepper\n- 1x Cream',
+                ingredients: '- Cheese (1)\n- Chili pepper (1)\n- Cream (1)\n- Potato (2)',
                 timeNeeded: '- 35 Minutes\n-  29 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -294,7 +294,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Bakery',
-                ingredients: '- 3x Banana\n- 1x Egg\n- 2x Grapes\n- 3x Wheat',
+                ingredients: '- Banana (3)\n- Egg (1)\n- Grapes (2)\n- Wheat (3)',
                 timeNeeded: '-30 Minutes\n- 25 min (3★)',
                 boat1: '2 per crate',
             }
@@ -309,7 +309,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'BBQ Grill',
-                ingredients: '- 2x Banana\n- 2x Blackberry\n- 1x Cream\n- 3x Wheat',
+                ingredients: '- Banana (1)\n- Blackberry (2)\n- Cream (1)\n- Wheat (3)',
                 timeNeeded: '- 1 Hour\n- 51 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -324,7 +324,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Ice Cream Maker',
-                ingredients: '- 1x Banana\n- 3x Cherry\n- 1x Cream',
+                ingredients: '- Banana (1)\n- Cherry (3)\n- Cream (1)',
                 timeNeeded: '- 3 Hours 30 Min\n- 2 Hours 58 min (3★)',
                 boat1: '1-2 per crate',
             }
@@ -339,7 +339,7 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: '- Colorful Candles\n- Floral Candle\n- Lemon Candle\n- Raspberry Candle\n- Strawberry Candle',
                 machine: 'Honey Extractor',
-                ingredients: '- 3x HoneyComb',
+                ingredients: '- Honeycomb (3)',
                 timeNeeded: '- 45 Minutes\n- 38 min (3★)',
                 boat1: 'Boats will never ask for this',
             }
@@ -369,9 +369,69 @@ const haydayitems = [
                 harvest: 'None\n',
                 usedFor: 'End Product',
                 machine: 'Salad Bar',
-                ingredients: '- 3x Beetroot\n- 1x Goat Cheese',
+                ingredients: '- Beetroot (3)\n- Goat Cheese (1)',
                 timeNeeded: '- 45 Minutes\n- 38 min (3★)',
                 boat1: '2-3 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Bell Pepper',
+        details: [
+            {
+                level: '74',
+                maxprice: '360',
+                harvest: 'None\n',
+                usedFor: '- Bacon fondue\n- Bell pepper soup\n- Colourful omelet\n- Stuffed peppers',
+                machine: 'Field Plot',
+                ingredients: '- Bell Pepper Seeds',
+                timeNeeded: '- 4 Hours 30 Minutes',
+                boat1: '9-14 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Bell pepper soup',
+        details: [
+            {
+                level: '81',
+                maxprice: '4390',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Soup Kitchen',
+                ingredients: '- Bread (1)\n- Olive oil (1)\n- Chili pepper (1)\n- Bell pepper (2)',
+                timeNeeded: '- 1 Hour\n- 51 Minutes (3★)',
+                boat1: '1-2 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Berry Juice',
+        details: [
+            {
+                level: '31',
+                maxprice: '2050',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Juice Press',
+                ingredients: '- Blackberry (1)\n- Raspberry (1)',
+                timeNeeded: '- 3 Hours\n- 2 Hours 33 Minutes (3★)',
+                boat1: '2-3 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Berry Smoothie',
+        details: [
+            {
+                level: '64',
+                maxprice: '5470',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Smoothie Maker',
+                ingredients: '- Blackberry (3)\n- Strawberry (3)\n- Raspberry (3)',
+                timeNeeded: '- 1 hour 15 min\n-  1 hour 3 min (3★)',
+                boat1: '1 per crate',
             }
         ]
     }
