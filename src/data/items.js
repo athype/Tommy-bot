@@ -434,6 +434,81 @@ const haydayitems = [
                 boat1: '1 per crate',
             }
         ]
+    },
+    {
+        name: 'Berry Waffles',
+        details: [
+            {
+                level: '114',
+                maxprice: '6040',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Waffle Maker',
+                ingredients: '- Plain waffles (1)\n- Syrup (1)\n- Raspberry (3)\n- Blackberry (2)',
+                timeNeeded: '- 35 min\n- 29 min (3★)',
+                boat1: '1 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Big sushi roll',
+        details: [
+            {
+                level: '76',
+                maxprice: '6480',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Sushi Bar',
+                ingredients: '- Lettuce (5)\n- Rice (20)\n- Fish fillet (1)\n- Egg (3)',
+                timeNeeded: '- 1 h 30 min\n- 1 h 16 min (3★)',
+                boat1: '1 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Birthday Bouquet',
+        details: [
+            {
+                level: '92',
+                maxprice: '3490',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Flower Shop',
+                ingredients: '- Cherry Juice (1)\n- Peony (3)\n- Lily (1)\n- Indigo (1)',
+                timeNeeded: '- 20 min\n- 17 min (3★)',
+                boat1: '1-2 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Black sesame smoothie',
+        details: [
+            {
+                level: '93',
+                maxprice: '3130',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: 'Smoothie Maker',
+                ingredients: '- Sesame (3)\n- Banana (1)\n- Goat milk (2)',
+                timeNeeded: '- 45 min\n- 38 min (3★)',
+                boat1: '2 per crate',
+            }
+        ]
+    },
+    {
+        name: 'Blackberry',
+        details: [
+            {
+                level: '26',
+                maxprice: '820',
+                harvest: 'None\n',
+                usedFor: '- Fruit Salad\n- Flower Shawl\n- Breakfast Bowl\n- Blackberry Muffin\n- Blackberry Jam\n- Berry Waffles\n- Berry Smoothie\n- Berry Juice\n- Banana Pancakes',
+                machine: 'Blackberry bush (13th crop)',
+                ingredients: '- Baby Blackberry Bush',
+                timeNeeded: '- 1 d 7 h',
+                boat1: '4-6 per crate',
+            }
+        ]
     }
 ]
 module.exports = haydayitems;
