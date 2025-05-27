@@ -3089,6 +3089,2946 @@ const haydayitems = [
                 boat1: ' per crate',
             }
         ]
+    },
+    {
+        name: 'Iron bracelet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Iron Ore',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Jelly Beans',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Kimchi',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Cake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Candle',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Curd',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Essential Oil',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Fudge',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Lotion',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Pie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lemon Tea',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lettuce',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lily',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lobster Pasta',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lobster Skewer',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lobster Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lobster Sushi',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lobster Tail',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lobster Trap',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Lollipop',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Macaroon',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mango',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mango Juice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Marmalade',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mayonnaise',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Meat Bucket',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Milk',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Milk Tea',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mint',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mint Essential Oil',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mint Fudge',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mint Ice Cream',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mint Tea',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mixed Smoothie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mocha Milkshake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mushroom',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mushroom Pasta',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mushroom Pot Pie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mushroom Salad',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mushroom Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Mystery Net',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Nachos',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Necklace',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Noodle Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Oats',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Olive',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Olive Dip',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Olive Oil',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Onion',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Onion Dog',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Onion Melt',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Onion Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Orange',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Orange Juice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Orange Salad',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Orange Sorbet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Orange Tea',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pancake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Passion Fruit',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Passion Fruit Jam',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Passion Fruit Juice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Passion Fruit Pie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pasta carbonara',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pasta Salad',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peach',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peach Ice Cream',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peach Jam',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peach Tart',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peanut Butter and Jelly Sandwich ',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peanut Butter Milkshake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peanut Fudge',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peanut Noodles',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peanuts',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Peony',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pickles',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pig Feed',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pillow',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pineapple',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pineapple Cake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pineapple Coconut Bars',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pineapple Juice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pizza',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plain Cupcake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plain Donut',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plain Waffles',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plain Yogurt',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Platinum Bar',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Platinum Ore',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plum',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plum Jam',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Plum Smoothie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pomegranate',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pomegranate Cake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pomegranate Tea',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Popcorn',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Potato',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Potato Bread',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Potato Feta Cake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Potato Omelet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Potato Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Potted Plant',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pumpkin',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pumpkin Pie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Pumpkin Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Purple Lure',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Quesadilla',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Raspberry',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Raspberry Candle',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Raspberry Jam',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Raspberry Mocha',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Raspberry Muffin',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Red Berry Cake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Red Lure',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Red Scarf',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Refined Coal',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rice Ball',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rice Noodles',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rice Omelet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rich Fudge',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rich Soap',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Roasted Tomatoes',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Rustic Bouquet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Salsa',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Samosa',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Seafood Salad',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sesame',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sesame Brittle',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sesame Ice Cream',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sheep Feed',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Shepherds Pie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Silver bar',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Silver Ore',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Snack Mix',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Soft Bouquet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Soothing Pad',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Soy Sauce',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'SoyBean',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Spicy Fish',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Spicy Pasta',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Spicy Pizza',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Spring Omelet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sprinkled Donut',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Strawberry',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Strawberry Cake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Strawberry Candle',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Strawberry Ice Cream',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Strawberry Jam',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Strawberry Yogurt',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Stuffed peppers',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sugarcane',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Summer Rolls',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Summer Salad',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sun Hat',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sunflower',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sushi Roll',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sweater',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Sweet Porridge',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Syrup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Taco',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tart Dressing',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tea Leaf',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tea Pot',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Toffee',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tofu Dog',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tofu Stir Fry',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tomato',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tomato Juice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tomato Sauce',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tomato Soup',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Top Hat',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tropical Cupcake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tropical Fondue',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tropical Smoothie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Tropical Yogurt',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Vanilla Ice Cream',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Vanilla MilkShake',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Veggie Bagel',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Veggie Bouquet',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Veggie Lasagna',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Veggie Lasagna',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Veggie Platter',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Violet Dress',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Watermelon',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Watermelon Juice',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Wheat',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Wheat Bundle',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'White Sugar',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Winter Stew',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Winter Veggies',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Wool',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Wooly Chaps',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Yogurt Smoothie',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
+    },
+    {
+        name: 'Zesty Perfume',
+        details: [
+            {
+                level: '',
+                maxprice: '',
+                harvest: 'None\n',
+                usedFor: 'End Product',
+                machine: '',
+                ingredients: '- \n- ',
+                timeNeeded: '- \n-  (3★)',
+                boat1: ' per crate',
+            }
+        ]
     }
 ]
 module.exports = haydayitems;
