@@ -634,14 +634,14 @@ const haydayitems = [
         name: 'Bread',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '2',
+                maxprice: '210',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Bacon toast\n- Bell pepper soup\n- Cheese fondue\n- Cucumber sandwich\n- Egg sandwich\n- Fish burger\n- Fish taco\n- Garlic bread\n- Goat cheese toast\n- Hamburger\n- Honey toast\n- Hot dog\n- Hummus wrap\n- Olive dip\n- Onion dog\n- Onion melt\n- Onion soup\n- Peanut butter and jelly sandwich\n- Taco\n- Veggie bagel',
+                machine: 'Bakery',
+                ingredients: '- Wheat (3)',
+                timeNeeded: '- 5 min\n- 4 min (3★)',
+                boat1: '14-26 per crate',
             }
         ]
     },
@@ -814,14 +814,14 @@ const haydayitems = [
         name: 'Cacao',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '36',
+                maxprice: '860',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Caffè mocha\n- Chili fudge\n- Chocolate\n- Chocolate cake\n- Chocolate ice cream\n- Chocolate pie\n- Chocolate popcorn\n- Chocolate roll\n- Chocolate waffles\n- Cocoa smoothie\n- Cookie cupcake\n- Crunchy Donut\n- Exfoliating soap\n- Fried candy bar\n- Honey soap\n- Hot chocolate\n- Macaroon\n- Mint fudge\n- Mint ice cream\n- Peanut butter milkshake\n- Peanut fudge\n- Raspberry mocha\n- Rich fudge\n- Sprinkled Donut',
+                machine: 'Cacao tree (17th crop)',
+                ingredients: '- Baby Cacao Tree',
+                timeNeeded: '- 1 d 10 h',
+                boat1: '4-6 per crate',
             }
         ]
     },
@@ -5899,14 +5899,14 @@ const haydayitems = [
         name: 'Wheat',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '1',
+                maxprice: '30',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Apple pie\n- Asparagus quiche\n- Bacon pie\n- Banana bread\n- Banana pancakes\n- Blackberry muffin\n- Bread\n- Carrot pie\n- Chicken feed\n- Chili poppers\n- Chocolate pie\n- Chocolate roll\n- Cookie\n- Cream cake\n- Feta pie\n- Fish pie\n- Fresh pasta\n- Fruit cake\n- Frutti di Mare pizza\n- Gingerbread cookie\n- Gnocchi\n- Goat feed\n- Hand pies\n- Honey apple cake\n- Lemon cake\n- Lemon pie\n- Mushroom pot pie\n- Passion fruit pie\n- Peach tart\n- Pineapple cake\n- Pizza\n- Plain cupcake\n- Plain Donut\n- Plain waffles\n- Pomegranate cake\n- Pumpkin pie\n- Quesadilla\n- Raspberry muffin\n- Rustic bouquet\n- Samosa\n- Sheep feed\n- Soothing Pad\n- Soy sauce\n- Spicy pizza\n- Strawberry cake\n- Toffee\n- Wheat bundle',
+                machine: 'Field (1st crop)',
+                ingredients: '- Wheat Seeds',
+                timeNeeded: '- 2 Minutes',
+                boat1: '50-101 per crate',
             }
         ]
     },
@@ -5920,8 +5920,8 @@ const haydayitems = [
                 usedFor: 'End Product',
                 machine: '',
                 ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                timeNeeded: '- 2 Minutes',
+                boat1: '50-101 per crate',
             }
         ]
     },
