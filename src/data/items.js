@@ -694,14 +694,14 @@ const haydayitems = [
         name: 'Broccoli',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '83',
+                maxprice: '210',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Bacon fondue\n- Broccoli pasta\n- Broccoli soup\n- Tofu stir fry\n- Veggie bouquet',
+                machine: 'Field (39th crop)',
+                ingredients: '- Broccoli Seeds',
+                timeNeeded: '- 1 h 20 min',
+                boat1: '15-24 per crate',
             }
         ]
     },
@@ -739,14 +739,14 @@ const haydayitems = [
         name: 'Brown Sugar',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '7',
+                maxprice: '320',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Carrot cake\n- Chocolate cake\n- Cookie\n- Cream Donut\n- Egg sushi\n- Pancake\n- Sesame ice cream\n- Tomato sauce',
+                machine: 'Sugar Mill',
+                ingredients: '- Sugarcane (1)',
+                timeNeeded: '- 20 min\n-17 min (3★)',
+                boat1: '8-13 per crate',
             }
         ]
     },
@@ -754,14 +754,14 @@ const haydayitems = [
         name: 'Butter',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '7',
+                maxprice: '320',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Carrot cake\n- Chocolate cake\n- Cookie\n- Cream Donut\n- Egg sushi\n- Pancake\n- Sesame ice cream\n- Tomato sauce',
+                machine: 'Sugar Mill',
+                ingredients: '- Sugarcane (1)',
+                timeNeeded: '- 20 min\n-17 min (3★)',
+                boat1: '8-13 per crate',
             }
         ]
     },
@@ -3802,9 +3802,9 @@ const haydayitems = [
                 level: '',
                 maxprice: '',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
+                usedFor: '- Bacon fondue\n- Bell pepper soup\n- Canned fish\n- Corn dog\n- Feta salad\n- Lemon lotion\n- Mayonnaise\n- Olive dip\n- Olive oil\n- Pasta salad\n- Spicy fish\n- Veggie bagel',
+                machine: 'Olive tree (24th crop)',
+                ingredients: '-  Baby Olive Tree',
                 timeNeeded: '- \n-  (3★)',
                 boat1: ' per crate',
             }
