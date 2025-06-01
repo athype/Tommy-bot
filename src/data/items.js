@@ -21,7 +21,7 @@ const haydayitems = [
                 level: '15',
                 maxprice: '396',
                 harvest: 'None\n',
-                usedFor: '- Apple Ginger Tea\n- Apple Jam\n- Apple Juice\n- Apple Pie\n- Apple Porridge\n- Caramel Apple\n- Green Smoothie\n- Honey Apple Cake',
+                usedFor: '- Apple juice (lvl 28)\n- Apple pie (lvl 28)\n- Apple jam (lvl 35)\n- Honey apple cake (lvl 42)\n- Caramel apple (lvl 51)\n- Green smoothie (lvl 66)\n- Apple ginger tea (lvl 88)\n- Apple porridge (lvl 119)',
                 machine: 'Apple tree (8th crop)',
                 harvest: '- 1st Harvest  -->  2x Apple\n- 2nd Harvest  -->  3x Apple\n- 3rd Harvest  --> 4x Apple\n-  1 Revive  -->  4x Apple',
                 ingredients: '- Baby Apple Tree',
@@ -1691,7 +1691,7 @@ const haydayitems = [
                 machine: '',
                 ingredients: '- \n- ',
                 timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                boat1: '15-24 per crate',
             }
         ]
     },
@@ -1894,14 +1894,14 @@ const haydayitems = [
         name: 'Egg',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '1',
+                maxprice: '180',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Corn bread  (lvl 7)\n- Pancake  (lvl 9)\n- Cookie (lvl 10)\n- Carrot pie  (lvl 14)\n- Pumpkin pie  (lvl 15)\n- Bacon pie  (lvl 16)\n- Raspberry muffin  (lvl 19)\n- Red berry cake  (lvl 23)\n- Blackberry muffin  (lvl 26)\n- Apple pie (lvl 28)\n- Feta pie  (lvl 34)\n- Fish pie  (lvl 34)\n- Casserole  (lvl 36)\n- Potato feta cake  (lvl 38)\n- Potato bread  (lvl 39)\n- Honey apple cake  (lvl 42)\n- Asparagus quiche (lvl 49)\n- Bacon and eggs  (lvl 11)\n- Mayonnaise  (lvl 62)\n- Egg sushi  (lvl 63)\n- Chocolate pie  (lvl 65)\n- Pineapple cake  (lvl 65)\n- Egg sandwich  (lvl 66)\n- Lemon curd  (lvl 66)\n- Fresh pasta  (lvl 67)\n- Lemon pie  (lvl 67)\n- Lemon cake  (lvl 68)\n- Fried rice  (lvl 69)\n- Honey toast  (lvl 69)\n- Noodle soup  (lvl 73)\n- Big sushi roll  (lvl 76)\n- Peach tart  (lvl 76)\n- Plain Donut  (lvl 76)\n- Colourful omelet  (lvl 77)\n- Spring omelet  (lvl 77)\n- Cheese omelet  (lvl 79)\n- Pasta carbonara  (lvl 83)\n- Rice omelet  (lvl 83)\n- Potato Omelet  (lvl 87)\n- Eggplant  (lvl 90)\n- Grilled eggplant  (lvl 90)\n- Banana bread  (lvl 91)\n- Hand pies  (lvl 91)\n- Passion fruit pie  (lvl 92)\n- Mushroom pot pie  (lvl 97)\n- Eggplant parmesan  (lvl 99)\n- Honey face mask  (lvl 99)\n- Pomegranate cake  (lvl 108)\n- Plain cupcake  (lvl 109)\n- Plain waffles  (lvl 114)\n- Breakfast waffles  (lvl 119)',
+                machine: 'Chicken (1st animal product)',
+                ingredients: '- Chicken feed (1)',
+                timeNeeded: '- 20 Minutes',
+                boat1: '15-24 per crate',
             }
         ]
     },
@@ -4204,14 +4204,14 @@ const haydayitems = [
         name: 'Peanuts',
         details: [
             {
-                level: '',
-                maxprice: '',
+                level: '62',
+                maxprice: '2340',
                 harvest: 'None\n',
-                usedFor: 'End Product',
-                machine: '',
-                ingredients: '- \n- ',
-                timeNeeded: '- \n-  (3★)',
-                boat1: ' per crate',
+                usedFor: '- Honey peanuts  (lvl 63)\n- Snack mix  (lvl 64)\n- Chocolate pie  (lvl 65)\n- Peanut butter milkshake (lvl 68)\n- Peanut butter and jelly sandwich  (lvl 71)\n- Crunchy Donut  (lvl 82)\n- Peanut noodles  (lvl 86)\n- Fried candy bar (lvl 100)\n- Peanut fudge (lvl 111)',
+                machine: 'Squirrel House (10th animal product)',
+                ingredients: '- Peanut Bush',
+                timeNeeded: '- 5 Hours',
+                boat1: 'Boats will never ask for this',
             }
         ]
     },
@@ -5902,7 +5902,7 @@ const haydayitems = [
                 level: '1',
                 maxprice: '30',
                 harvest: 'None\n',
-                usedFor: '- Apple pie\n- Asparagus quiche\n- Bacon pie\n- Banana bread\n- Banana pancakes\n- Blackberry muffin\n- Bread\n- Carrot pie\n- Chicken feed\n- Chili poppers\n- Chocolate pie\n- Chocolate roll\n- Cookie\n- Cream cake\n- Feta pie\n- Fish pie\n- Fresh pasta\n- Fruit cake\n- Frutti di Mare pizza\n- Gingerbread cookie\n- Gnocchi\n- Goat feed\n- Hand pies\n- Honey apple cake\n- Lemon cake\n- Lemon pie\n- Mushroom pot pie\n- Passion fruit pie\n- Peach tart\n- Pineapple cake\n- Pizza\n- Plain cupcake\n- Plain Donut\n- Plain waffles\n- Pomegranate cake\n- Pumpkin pie\n- Quesadilla\n- Raspberry muffin\n- Rustic bouquet\n- Samosa\n- Sheep feed\n- Soothing Pad\n- Soy sauce\n- Spicy pizza\n- Strawberry cake\n- Toffee\n- Wheat bundle',
+                usedFor: '- Bread (lvl 2)\n- Chicken feed (lvl3)\n- Cookie (lvl 10)\n- Carrot pie (lvl 14)\n- Pumpkin pie (lvl 15)\n- Sheep feed (lvl 16)\n- Bacon pie (lvl 18)\n- Raspberry muffin (lvl 19)\n- Cream cake (lvl 23)\n- Blackberry muffin x1 (lvl 26)\n- Apple pie (lvl 28)\n- Fish pie (lvl 28)\n- Goat feed x1 (lvl 32)\n- Pizza (lvl 33)\n- Feta pie (lvl 34)\n- Wheat bundle x75 (lvl 34 - Rep 3)\n- Strawberry cake (lvl 35)\n- Spicy pizza (lvl 37)\n- Honey apple cake (lvl 42)\n- Frutti di Mare pizza (lvl 45)\n- Soothing Pad (lvl 45)\n- Rustic bouquet (lvl 49)\n- Asparagus quiche (lvl 49)\n- Toffee x1 (lvl 52)\n- Soy sauce x1 (lvl 54)\n-   Pineapple cake (lvl 65)\n- Chocolate pie (lvl 65)\n- Lemon pie (lvl 67)\n- Fresh pasta (lvl 67)\n-   Lemon cake (lvl 68)\n- Gnocchi (lvl 72)\n- Peach tart (lvl 76)\n- Plain Donut (lvl 76)\n- Quesadilla (lvl 82)\n- Gingerbread cookie (lvl 86)\n- Fruit cake (lvl 89)\n- Banana bread (lvl 91)\n-  Hand pies (lvl 91)\n-  Passion fruit pie (lv 92)\n- Banana pancakes (lvl 94)\n- Chocolate roll (lvl 95)\n-  Mushroom pot pie (lvl 97)\n- Chili poppers x1 (lvl 98)\n- Samosa (lvl 103)\n- Pomegranate cake (lvl 108)\n- Plain cupcake (lvl 109)\n- Plain waffles (lvl 114)',
                 machine: 'Field (1st crop)',
                 ingredients: '- Wheat Seeds',
                 timeNeeded: '- 2 Minutes',
